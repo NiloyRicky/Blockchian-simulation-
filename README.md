@@ -10,6 +10,7 @@ A simple simulation of blockchain mechanics using JavaScript. This project helps
 - SHA256 hashing
 - Proof-of-work mining
 - Chain validation
+- All Docker files
 - --Some dummy data
 
 ---
